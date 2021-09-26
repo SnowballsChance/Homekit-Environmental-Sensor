@@ -5,6 +5,7 @@ With thanks to the [HomeSpan](https://github.com/HomeSpan) project.
 
 
 This is an implementation of [HomeSpan TempSensor I2C](https://github.com/HomeSpan/TempSensorI2C) modified for HTU21D i2c sensor.
+*(!! Shamelessly plagiarised and only slightly modified from: https://github.com/HomeSpan/TempSensorI2C)*
 
 Wrangling of the sensor thanks to [SparkFun](https://github.com/sparkfun/HTU21D_Breakout)
 
