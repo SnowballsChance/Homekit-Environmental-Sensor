@@ -1,4 +1,4 @@
-# HS Environmental Sensor
+# Homekit Environmental Sensor
 HomeSpan Powered, Homekit Compatible Temperature and Humidity Sensor for ESP32 with the Arduino framework.
 
 With thanks to the [HomeSpan](https://github.com/HomeSpan) project.
