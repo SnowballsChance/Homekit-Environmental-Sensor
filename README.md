@@ -15,7 +15,7 @@ Based on a ESP32 DoItV2 Development board.
 HTU21D Humidity and Temperature sensor - i2c
 2 10k resistors.
 
-Connections:
+## Connections:
 | GPIO | Connection|
 | ---- | ------------- |
 | 2 | Onboard LED |
@@ -23,13 +23,7 @@ Connections:
 | 21 | SDA |
 | 22 | SCL |
 
-Be sure to tie the SDA and SCL lines HIGH (+3.3v) with the 10k Resistors.
-    This dramatically improved the reliability of reading the sensor.
-
-
-
-
-
-
+**Be sure to tie the SDA and SCL lines HIGH (+3.3v) with the 10k Resistors.**
+    This dramatically improved the reliability of reading my sensor which is connected via a 1.5m cable.
 
 
