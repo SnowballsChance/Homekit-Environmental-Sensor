@@ -9,7 +9,7 @@ This is an implementation of [HomeSpan TempSensor I2C](https://github.com/HomeSp
 Wrangling of the sensor thanks to [SparkFun](https://github.com/sparkfun/HTU21D_Breakout)
 
 
-** Overview:
+## Overview:
 
 Based on a ESP32 DoItV2 Development board.
 HTU21D Humidity and Temperature sensor - i2c
@@ -23,9 +23,7 @@ Connections:
 | 21 | SDA |
 | 22 | SCL |
 
-
-
-Tie the SDA and SCL lines HIGH (+3.3v) with the 10k Resistors.
+Be sure to tie the SDA and SCL lines HIGH (+3.3v) with the 10k Resistors.
     This dramatically improved the reliability of reading the sensor.
 
 
